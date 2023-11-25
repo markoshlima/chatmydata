@@ -1,0 +1,6 @@
+[submodule "chatmydata-front"]
+	path = chatmydata-front
+	url = https://github.com/markoshlima/chatmydata-front
+[submodule "chatmydata-back"]
+	path = chatmydata-back
+	url = https://github.com/markoshlima/chatmydata-back
